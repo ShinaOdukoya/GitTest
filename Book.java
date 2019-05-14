@@ -19,4 +19,7 @@ public class Book {
        public boolean getIsHardCover (){
            return isHardCover;
        }
+       public void setPages (int Pages){
+           this.Pages = pages;
+       }
 }
